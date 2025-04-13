@@ -1,0 +1,5 @@
+in terminal;
+
+1) cmd
+2) conda activate python3.10.8
+3) python app.py
